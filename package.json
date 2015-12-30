@@ -1,0 +1,22 @@
+{
+  "name": "redux-log-errors",
+  "version": "1.0.0",
+  "description": "redux store enhancer to log errors while dispatching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodny/redux-log-errors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolodny/redux-log-errors/issues"
+  },
+  "homepage": "https://github.com/kolodny/redux-log-errors#readme"
+}
